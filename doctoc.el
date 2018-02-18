@@ -1,11 +1,11 @@
-;;; doctoc.el --- Support for DocToc in Emacs.
+;;; doctoc.el --- Generate Markdown tables of content with DocToc.
 
-;; Copyright (C) 2016 Marc-André Goyette
+;; Copyright (C) 2016-2018 Marc-André Goyette
 ;; Author: Marc-André Goyette <goyette.marcandre@gmail.com>
 ;; URL: https://github.com/magoyette/doctoc.el
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "25"))
-;; Keywords: markdown
+;; Keywords: languages
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
